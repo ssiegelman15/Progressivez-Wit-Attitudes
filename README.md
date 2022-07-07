@@ -5,10 +5,11 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Technologies](#technologies)
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 - [License](#license)
 
@@ -16,21 +17,21 @@
 
 Just Another Text Editor
 
+## Technologies
+
+## Screenshot
+
 ## Installation
 
 npm i
 
 ## Usage
 
-Run the application but running npm start in your terminal
+Visit the deployed heroku site for this blog at: https://infinite-peak-08604.herokuapp.com/
 
 ## Contributing
 
 Please provide your Github username and email address.
-
-## Tests
-
-N/A
 
 ## Questions
 
