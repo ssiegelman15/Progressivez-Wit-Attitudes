@@ -19,7 +19,17 @@ Just Another Text Editor
 
 ## Technologies
 
+- JavaScript
+- Node.js
+- Express.js
+- Heroku
+- Service Workers
+- Concurrently
+- Webpack
+
 ## Screenshot
+
+![Screenshot of Deployed Site](./assets/Screenshot.JPG)
 
 ## Installation
 
@@ -27,7 +37,7 @@ npm i
 
 ## Usage
 
-Visit the deployed heroku site for this blog at: https://infinite-peak-08604.herokuapp.com/
+Visit the deployed heroku site for this text editor at: https://infinite-peak-08604.herokuapp.com/
 
 ## Contributing
 
